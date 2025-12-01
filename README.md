@@ -13,19 +13,21 @@ The project demonstrates multi-threaded and concurrent data processing using **J
 ## Repository Structure
 
 ```text
-MSCS 632 Assignment 6 Data Processing/
-│
-├── java/
-│   ├── src/
-│   │   └── main/java/edu/ucumberlands/dps/
-│   │       ├── Main.java
-│   │       ├── Worker.java
-│   │       ├── Task.java
-│   │       └── SharedTaskQueue.java
-│   └── java_results.txt
-│
 ├── go/
 │   ├── main.go
 │   └── go_results.txt
 │
+├── java/src/main/java
+│   └── edu/ucumberlands/dps/
+│       ├── Main.java
+│       ├── Main.class
+│       ├── Worker.java
+│       ├── Worker.class
+│       ├── Task.java
+│       ├── Task.class
+│       ├── SharedTaskQueue.java
+│       ├── SharedTaskQueue.class
+│   └── java_results.txt
+│
 └── README.md
+
