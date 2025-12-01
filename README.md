@@ -28,4 +28,4 @@ MSCS 632 Assignment 6 Data Processing/
 │   ├── main.go
 │   └── go_results.txt
 │
-└── screenshots/    (optional, for report)
+└── README.md
