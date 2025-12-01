@@ -1,4 +1,19 @@
-mscs632-assignment6-dps/
+# MSCS 632 – Assignment 6: Data Processing System (Java + Go)
+
+This repository contains the implementation for Assignment 6 of **MSCS 632 – Advanced Programming Languages**.
+The project demonstrates multi-threaded and concurrent data processing using **Java threads** and **Go goroutines** with:
+- a shared task queue,
+- multiple workers,
+- poison pill termination,
+- synchronized result storage,
+- and file output.
+
+---
+
+## Repository Structure
+
+```text
+MSCS 632 Assignment 6 Data Processing/
 │
 ├── java/
 │   ├── src/
@@ -12,4 +27,5 @@ mscs632-assignment6-dps/
 ├── go/
 │   ├── main.go
 │   └── go_results.txt
-|
+│
+└── screenshots/    (optional, for report)
